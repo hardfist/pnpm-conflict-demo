@@ -10,7 +10,7 @@ importers:
 
   packages/b:
     specifiers:
-      react: '16'
+      react: '*'
     dependencies:
       react: 16.14.0
 
